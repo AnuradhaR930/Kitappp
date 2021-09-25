@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kitapp</string>
+    <string name="btnadd">AddtoCart</string>
+    <string name="quebtn">AskQuestion</string>
+    <string name="sub">-</string>
+    <string name="qun_bk">1</string>
+    <string name="add">+</string>
+    <string name="order">order</string>
+    <string name="btn_add">+</string>
+    <string name="btn_sub">-</string>
+    <string name="delete">Delete</string>
+    <string name="quan">1</string>
+    <string name="tot_b_price" />
+</resources>
